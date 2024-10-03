@@ -3,6 +3,11 @@
 Resume Project.
 
 ![screenshot](assets/images/ss.png)
+![screenshot](assets/images/img_1.png)
+![screenshot](assets/images/img_2.png)
+![screenshot](assets/images/img_3.png)
+![screenshot](assets/images/img_4.png)
+- [Screen record video](https://youtu.be/gOjOv__agAg)
 
 ## Getting Started
 
